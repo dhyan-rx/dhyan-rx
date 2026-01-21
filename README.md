@@ -21,10 +21,7 @@ I’m a student and freelancer passionate about technology and creative problem-
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dhyan_rx) 
   
 
-## My Contribution Graph
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gitlab.com/[USERNAME]/[USERNAME]/-/raw/main/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://gitlab.com/[USERNAME]/[USERNAME]/-/raw/main/output/pacman-contribution-graph-light.svg">
-    <img alt="pacman contribution graph" src="https://gitlab.com/[USERNAME]/[USERNAME]/-/raw/main/output/pacman-contribution-graph-light.svg">
-</picture>
+<iframe src="https://abozanona.github.io/pacman-contribution-graph/embeded/canvas.html?username=yourusername&platform=github" 
+    width="800" height="600" frameborder="0"></iframe>
+<!-- For SVG -->
+<img src="https://pacman.abozanona.me?username=dhyan-rx" />
