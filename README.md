@@ -19,7 +19,8 @@ I’m a student and freelancer passionate about technology and creative problem-
 
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dhyan_rx) 
-  
 
+  
+  ## 🪼 Behind the Scenes
 <!-- For SVG -->
 <img src="https://pacman.abozanona.me?username=dhyan-rx" />
